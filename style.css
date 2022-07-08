@@ -18,7 +18,7 @@ ul, li {
 }
 
 header {
-  grid-column: 1 / span 3;
+  grid-column: span 3;
   text-align: center;
   border-bottom: 1px solid #ddd;
 }
